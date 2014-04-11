@@ -1,0 +1,11 @@
+name: Curso de Diseño y Desarrollo de Sitios Web
+markdown: redcarpet
+safe: true
+pygments: true
+
+# Variables personalizadas
+tagline: Municipalidad de Mendoza
+authors:
+    ap: Alejandro Prieto
+    gn: Guillermo Nuñez
+sponsor: Municipalidad de Mendoza
